@@ -1,0 +1,6 @@
+langchain_astradb
+langchain_openai
+langchain-community
+langchain-core
+pandas
+-e .
